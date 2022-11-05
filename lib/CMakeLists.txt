@@ -1,0 +1,1 @@
+add_library(lib collapse.cpp Creating_to_BMP.cpp Creating_to_BMP.h Parsing.cpp Parsing.h)
